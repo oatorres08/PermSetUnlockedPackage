@@ -2,6 +2,9 @@
   "packageDirectories": [
     {
       "path": "force-app",
+      "package": "PUObjects",
+      "versionName": "Package unlocked - Spring '23",
+      "versionNumber": "1.0.0.NEXT",      
       "default": true
     }
   ],
