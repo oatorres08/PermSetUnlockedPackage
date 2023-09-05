@@ -1,7 +1,20 @@
 {
   "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "PermSetUnlockedPackageTU4",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": true,
+      "versionDescription": ""
+    }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "47.0"
+  "sourceApiVersion": "47.0",
+  "packageAliases": {
+    "PermSetUnlockedPackageTU4": "0Ho8Z0000004CHCSA2",
+    "PermSetUnlockedPackageTU4@0.1.0-1-SalesMaster": "04t8Z000000UfX9QAK",
+    "PermSetUnlockedPackageTU4@0.1.0-2-SalesMaster": "04t8Z000000UfXEQA0"
+  }
 }
