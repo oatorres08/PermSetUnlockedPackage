@@ -1,4 +1,6 @@
 {
+  "title": "Mi titulo sfdx json",
+  "description": "Descripcion sfdx json",
   "packageDirectories": [
     {
       "path": "force-app",
