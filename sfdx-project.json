@@ -16,6 +16,7 @@
   "sourceApiVersion": "47.0",
   "packageAliases": {
     "UnlockedPackage": "0Ho8Z0000004CHMSA2",
-    "UnlockedPackage@0.1.0-1-GitHubMaster": "04t8Z000000UfZtQAK"
+    "UnlockedPackage@0.1.0-1-GitHubMaster": "04t8Z000000UfZtQAK",
+    "UnlockedPackage@0.1.0-2-GitHubMaster": "04t8Z000000UfZyQAK"
   }
 }
